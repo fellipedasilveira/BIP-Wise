@@ -41,36 +41,6 @@ Bem-vindo ao **BIP Wise**, uma aplicação moderna e responsiva construída com 
 - **Ícones**: [Lucide React](https://lucide.dev/)
 - **Deploy**: [Vercel](https://vercel.com/)
 
-## 🚀 Como Rodar o Projeto
-
-1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/fellipesilvac/BIP-Wise.git
-   cd BIP-Wise
-   ```
-
-2. **Instale as dependências**
-   ```bash
-   npm install
-   ```
-
-3. **Configure as Variáveis de Ambiente**
-   Crie um arquivo `.env.local` na raiz do projeto e adicione suas chaves do Supabase:
-   ```env
-   NEXT_PUBLIC_SUPABASE_URL=sua_supabase_url
-   NEXT_PUBLIC_SUPABASE_ANON_KEY=sua_supabase_anon_key
-   ```
-
-4. **Inicie o servidor de desenvolvimento**
-   ```bash
-   npm run dev
-   ```
-
-5. **Acesse**
-   Abra [http://localhost:3000](http://localhost:3000) no seu navegador.
-
----
-
 <div align="center">
   Feito com 💚 por <a href="https://github.com/fellipesilvac">Fellipe Silva</a>
 </div>
